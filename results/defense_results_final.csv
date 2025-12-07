@@ -1,0 +1,4 @@
+Scenario,Total,Success,Blocked,Collisions
+Baseline,100,100,0,0
+Attack_Success,100,100,0,99
+Defense_Active,100,0,100,0

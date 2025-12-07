@@ -1,0 +1,3 @@
+Scenario,Total,Success,Blocked,Collisions,Meaning
+Single_Fault_vs_Defense,100,0,100,0,Defense Wins
+Double_Fault_Bypass,100,100,0,99,Attacker Wins (God Mode)

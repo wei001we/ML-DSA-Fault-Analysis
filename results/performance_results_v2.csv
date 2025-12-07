@@ -1,0 +1,4 @@
+Config,TotalTime(s),Latency(ms),Throughput(ops/s),Overhead(%)
+Baseline,0.7598,0.0760,13161.93,0.00%
+Snapshot_Defense,0.7305,0.0730,13689.46,-3.95%
+Double_Execution,1.5329,0.1533,6523.63,101.71%
